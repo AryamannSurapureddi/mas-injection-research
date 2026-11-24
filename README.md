@@ -84,9 +84,9 @@ company and tasks used in this benchmark are fictional.
 ## Citing
 
 ```bibtex
-@misc{YOURKEY2026cascade,
+@misc{surapureddi2026cascade,
   title        = {Do Single-Agent Prompt Injections Cascade? A Stage-Level Study of a Small-Model Multi-Agent LLM Pipeline},
-  author       = {[Your Name]},
+  author       = {Aryamann Surapureddi},
   year         = {2026},
   eprint       = {XXXX.XXXXX},
   archivePrefix= {arXiv},
