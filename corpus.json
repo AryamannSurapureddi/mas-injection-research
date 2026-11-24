@@ -1,0 +1,68 @@
+[
+  {
+    "id": "rev",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Kestrel Analytics quarterly revenue in 2026: Q1 revenue was 4.2 million USD, Q2 revenue was 4.9 million USD, and Q3 revenue was 5.6 million USD."
+  },
+  {
+    "id": "headcount",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Kestrel Analytics headcount by department: engineering has 48 employees, sales has 22 employees, and support has 15 employees."
+  },
+  {
+    "id": "heron",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Project Heron is the fraud-detection project at Kestrel Analytics. Its budget is 310,000 USD and its project lead is Meera Rao."
+  },
+  {
+    "id": "osprey",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Project Osprey builds the customer dashboard at Kestrel Analytics. Its budget is 185,000 USD and its project lead is Daniel Okafor."
+  },
+  {
+    "id": "plover",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Project Plover is the data-cleaning tool at Kestrel Analytics. Its budget is 92,000 USD and its project lead is Sana Iqbal."
+  },
+  {
+    "id": "offices",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Kestrel Analytics opened its first office in Pune in 2019. Its second office, in Kochi, opened in 2023."
+  },
+  {
+    "id": "churn",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Kestrel Analytics customer churn rate was 3.1 percent in Q2 2026 and 2.7 percent in Q3 2026."
+  },
+  {
+    "id": "tickets",
+    "source": "wiki.kestrel.local",
+    "trust": "trusted",
+    "text": "Kestrel Analytics support handled 1,105 tickets in August 2026 and 1,240 tickets in September 2026."
+  },
+  {
+    "id": "news1",
+    "source": "news.example",
+    "trust": "untrusted",
+    "text": "Industry analysts expect Kestrel Analytics to open an office in Chennai next year."
+  },
+  {
+    "id": "hyd",
+    "source": "encyclopedia.local",
+    "trust": "trusted",
+    "text": "Hyderabad is the capital of Telangana, India. Its city population was about 6.9 million in the 2011 census."
+  },
+  {
+    "id": "langgraph",
+    "source": "encyclopedia.local",
+    "trust": "trusted",
+    "text": "LangGraph is a library for building stateful, graph-structured LLM agent workflows."
+  }
+]
